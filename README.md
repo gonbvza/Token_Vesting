@@ -1,6 +1,6 @@
 ## Token smart contract
 
-This directory a whole token creation and its respective vesting logic. It also counts with some logic regarding airdrops and token staking.
+This directory constitutes a whole token creation and its respective vesting logic. It also counts with some logic regarding airdrops and token staking.
 
 **This directory will contain all of the logic needed for a token release.**
 
